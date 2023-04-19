@@ -24,7 +24,6 @@
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-app-bar-title>Tracking Detector Dashboard</v-app-bar-title>
-
     </v-app-bar>
     <v-main>
       <v-container>
